@@ -1,0 +1,10 @@
+/Users/rebeccapatek/workspace/csharp/exercises/genericsIntro/bin/Debug/netcoreapp3.1/genericsIntro.deps.json
+/Users/rebeccapatek/workspace/csharp/exercises/genericsIntro/bin/Debug/netcoreapp3.1/genericsIntro.runtimeconfig.json
+/Users/rebeccapatek/workspace/csharp/exercises/genericsIntro/bin/Debug/netcoreapp3.1/genericsIntro.runtimeconfig.dev.json
+/Users/rebeccapatek/workspace/csharp/exercises/genericsIntro/bin/Debug/netcoreapp3.1/genericsIntro.dll
+/Users/rebeccapatek/workspace/csharp/exercises/genericsIntro/bin/Debug/netcoreapp3.1/genericsIntro.pdb
+/Users/rebeccapatek/workspace/csharp/exercises/genericsIntro/obj/Debug/netcoreapp3.1/genericsIntro.csprojAssemblyReference.cache
+/Users/rebeccapatek/workspace/csharp/exercises/genericsIntro/obj/Debug/netcoreapp3.1/genericsIntro.AssemblyInfoInputs.cache
+/Users/rebeccapatek/workspace/csharp/exercises/genericsIntro/obj/Debug/netcoreapp3.1/genericsIntro.AssemblyInfo.cs
+/Users/rebeccapatek/workspace/csharp/exercises/genericsIntro/obj/Debug/netcoreapp3.1/genericsIntro.dll
+/Users/rebeccapatek/workspace/csharp/exercises/genericsIntro/obj/Debug/netcoreapp3.1/genericsIntro.pdb
